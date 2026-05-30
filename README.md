@@ -22,3 +22,6 @@ A standardized naming convention was designed to improve resource identification
 | Virtual Machine | dev-webapp-vm-weu  |
 | Storage Account | devwebappstore01   |
 | Database        | prod-webapp-db-weu |
+az group create --name dev-webapp-rg-weu --location westeurope
+
+az group create --name prod-webapp-rg-weu --location westeurope
