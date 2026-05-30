@@ -15,3 +15,10 @@ A standardized naming convention was designed to improve resource identification
 
 ```text
 <environment>-<application>-<resourceType>-<region>
+| Resource Type   | Example Name       |
+| --------------- | ------------------ |
+| Resource Group  | dev-webapp-rg-weu  |
+| Resource Group  | prod-webapp-rg-weu |
+| Virtual Machine | dev-webapp-vm-weu  |
+| Storage Account | devwebappstore01   |
+| Database        | prod-webapp-db-weu |
